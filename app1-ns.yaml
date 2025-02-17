@@ -1,0 +1,7 @@
+apiVersion: v1 # Kubernetes API version
+kind: Namespace # Type of resource (Namespace)
+metadata: # Metadata about the resource
+  name: app1-dev # Name of the Namespace
+  labels: # Labels for organizing resources
+    app: app1 # Label for the application
+    env: dev # Label for the environment (development)
