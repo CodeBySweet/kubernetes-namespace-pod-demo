@@ -1,5 +1,3 @@
-# kubernetes-namespace-pod-demo
-A guide to managing Kubernetes Namespaces and Pods.
 
 ## Kubernetes Namespace and Pod Management
 This guide provides step-by-step instructions for managing Kubernetes Namespaces and Pods using both imperative and declarative approaches.
